@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- <a href="https://syedtamimnsu.github.io/Personal-Protfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-3B82F6?style=for-the-badge" alt="Personal Portfolio" /></a>
+ <a href="https://syedtamimnsu.github.io/Personal-Protfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-3B82F6?style=for-the-badge" alt="Personal Portfolio" /></a>
   <a href="https://www.linkedin.com/in/syed-tamim-1428/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:syedtamim167@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
