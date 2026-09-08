@@ -1,16 +1,183 @@
-## Hi there 👋
+<!-- GitHub profile README for syedtamimnsu. -->
 
-<!--
-**syedtamimnsu/syedtamimnsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Syed Tamim 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>AI &amp; Machine Learning · LLM Applications · AI Automation</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=55&amp;lines=Building+useful+AI+applications;Exploring+LLMs+and+multi-agent+systems;Automating+workflows+with+n8n;Turning+research+ideas+into+working+projects" alt="Building AI applications, exploring LLMs, and automating workflows" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/syedtamimnsu"><img src="https://img.shields.io/badge/GitHub-syedtamimnsu-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/syed-tamim-1428/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:syedtamim167@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
+
+👋 About Me
+
+I'm a Computer Science and Engineering graduate from North South University, Bangladesh, interested in building AI systems that solve practical problems. My work spans LLM applications, multi-agent systems, workflow automation, natural language processing, and computer vision.
+
+I enjoy connecting research with implementation—from preparing structured legal data and experimenting with deep learning models to building assistants that coordinate tools and automate everyday tasks.
+
+Education: BSc in Computer Science and Engineering, North South University · CGPA: 3.61/4.00.
+
+Experience: Teaching assistance, backend development, and AI project development.
+
+Research interests: Large language models, retrieval-augmented generation, agentic AI, and legal NLP.
+
+Long-term goal: Grow as an AI researcher and contribute through research, teaching, and useful software.
+
+🔬 What I'm Working On
+
+Developing a structured Bangladeshi judicial case dataset for legal AI research.
+
+Exploring legal case summarization, outcome prediction, and retrieval-based assistance.
+
+Building n8n automation workflows that connect LLMs with APIs and business tools.
+
+Developing multi-agent applications for planning and task coordination.
+
+Experimenting with Faster R-CNN for weed detection and evaluating model performance.
+
+🛠️ Technical Toolkit
+
+Programming Languages
+
+
+
+
+
+
+
+
+
+AI, Machine Learning & Agents
+
+
+
+
+
+
+
+Focus areas: LLM integration · RAG · Multi-agent orchestration · NLP · Object detection · Model evaluation
+
+Automation & Integrations
+
+
+
+
+
+
+
+
+Backend, Databases & Development Tools
+
+
+
+
+
+
+
+
+
+
+
+🚀 Featured Projects
+
+<!-- Add direct repository links to the project names when the corresponding repositories are ready to feature publicly. -->
+
+Project
+
+What it does
+
+Technologies / methods
+
+TripMate AI — Multi-Agent Travel Planner
+
+Coordinates travel planning tasks and generates itineraries using specialized agents and external tools.
+
+Python, LangGraph, FastAPI, Groq, Tavily, PostgreSQL
+
+WhatsApp Doctor Appointment Bot
+
+Connects conversational appointment booking with scheduling data and payment workflows.
+
+n8n, Groq / Llama, WhatsApp Cloud API, Google Sheets, Stripe
+
+Themis — Bangladeshi Legal Analytics
+
+Explores outcome prediction, case classification, and summarization for Bangladeshi land and property disputes.
+
+NLP, DistilBERT, RoBERTa
+
+Bangladeshi Judicial Case Dataset — In Progress
+
+Structures judgments, legal references, procedural history, and outcome labels for downstream research.
+
+Python, JSON, data preprocessing, legal NLP
+
+Weed Detection with Faster R-CNN
+
+Investigates weed detection with ResNet backbones, augmentation, and hyperparameter tuning.
+
+PyTorch, Faster R-CNN, ResNet-50/101, Albumentations, Optuna
+
+AI Ads Generation
+
+Combines an ad-generation interface with AI image generation and media management.
+
+React, TypeScript, Node.js, Prisma, PostgreSQL, Gemini, Cloudinary
+
+<p align="center">
+  <a href="https://github.com/syedtamimnsu?tab=repositories"><strong>Explore my public repositories →</strong></a>
+</p>
+
+💼 Experience
+
+Teaching Assistant · North South University
+January 2025 – May 2026
+
+Supported programming labs and helped students understand programming concepts.
+
+Assisted with grading, learning materials, and academic support.
+
+Developed experience explaining technical ideas and guiding practical problem-solving.
+
+Junior Backend Developer · MiahIT
+June 2025 – November 2025
+
+Worked on REST APIs, database operations, and authentication workflows.
+
+Contributed to backend integrations, including LLM-related functionality.
+
+Used Git, Docker, and GitHub Actions in development workflows.
+
+📈 GitHub Statistics
+
+<!-- These cards are generated by external services and can occasionally be unavailable.
+     They display public GitHub activity; they are not measures of proficiency.
+     Remove this section if you prefer a README without external statistics cards. -->
+
+<p align="center">
+  <a href="https://github.com/syedtamimnsu">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedtamimnsu&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=true" alt="Syed Tamim's public GitHub statistics" />
+  </a>
+  <a href="https://github.com/syedtamimnsu?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedtamimnsu&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Languages used in Syed Tamim's public repositories" />
+  </a>
+</p>
+
+🤝 Let's Connect
+
+I'm interested in conversations and collaboration around LLM applications, agentic AI, legal NLP, computer vision, and workflow automation.
+
+Email: syedtamim167@gmail.com
+
+LinkedIn: Syed Tamim
+
+GitHub: @syedtamimnsu
+
+<p align="center"><em>Learning through research. Building through practice.</em></p>
