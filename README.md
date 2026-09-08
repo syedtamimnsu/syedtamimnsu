@@ -99,12 +99,6 @@ I enjoy connecting research with implementation—from preparing structured lega
 
 ## 💼 Experience
 
-**Teaching Assistant · North South University**  
-January 2025 – May 2026
-
-- Supported programming labs and helped students understand programming concepts.
-- Assisted with grading, learning materials, and academic support.
-- Developed experience explaining technical ideas and guiding practical problem-solving.
 
 **Junior Backend Developer · MiahIT**  
 June 2025 – November 2025
@@ -112,6 +106,22 @@ June 2025 – November 2025
 - Worked on REST APIs, database operations, and authentication workflows.
 - Contributed to backend integrations, including LLM-related functionality.
 - Used Git, Docker, and GitHub Actions in development workflows.
+
+**AI Intership · CodeAlpha**  
+May 2026 – June 2026
+
+- Developed AI projects using Python and machine learning techniques.
+- Prepared datasets, trained models, and evaluated their performance.
+- Documented project workflows, experiments, and results.
+
+
+**Teaching Assistant · North South University**  
+January 2025 – May 2026
+
+- Supported programming labs and helped students understand programming concepts.
+- Assisted with grading, learning materials, and academic support.
+- Developed experience explaining technical ideas and guiding practical problem-solving.
+
 
 ## 📈 GitHub Statistics
 
